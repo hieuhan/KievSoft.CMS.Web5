@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KievSoft.CMS.Web", "KievSoft.CMS.Web\KievSoft.CMS.Web.csproj", "{9EC5809C-3328-4740-B26E-437CE14D2AEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KievSoft.DataAccess", "KievSoft.DataAccess\KievSoft.DataAccess.csproj", "{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9EC5809C-3328-4740-B26E-437CE14D2AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EC5809C-3328-4740-B26E-437CE14D2AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EC5809C-3328-4740-B26E-437CE14D2AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
