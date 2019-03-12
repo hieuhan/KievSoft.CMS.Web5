@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KievSoft.CMS.Web", "KievSof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KievSoft.DataAccess", "KievSoft.DataAccess\KievSoft.DataAccess.csproj", "{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KievSoft.CMSLib", "KievSoft.CMSLib\KievSoft.CMSLib.csproj", "{BD93BC5B-7659-4D8B-B90F-A0A921B74310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBFFB530-AD22-4F79-929A-58AAB67FDFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD93BC5B-7659-4D8B-B90F-A0A921B74310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD93BC5B-7659-4D8B-B90F-A0A921B74310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD93BC5B-7659-4D8B-B90F-A0A921B74310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD93BC5B-7659-4D8B-B90F-A0A921B74310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
